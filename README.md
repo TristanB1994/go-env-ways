@@ -1,1 +1,1 @@
-# go-env-ways first commit!
+# go project with env variable setup!
